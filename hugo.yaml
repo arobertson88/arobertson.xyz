@@ -1,7 +1,11 @@
 baseURL: "https://arobertson.xyz/"
 title: arobertson.xyz
-paginate: 5
 theme: PaperMod
+
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
 
 enableRobotsTXT: true
 buildDrafts: false
