@@ -123,9 +123,9 @@ menu:
       name: posts
       url: /posts/
       weight: 10
-    - identifier: Dashboard
+    - identifier: dashboard
       name: dashboard
-      url: https://homepage.hudson.arobertson.xyz
+      url: https://homepage.home.arobertson.xyz
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
