@@ -119,9 +119,9 @@ menu:
       name: categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: posts
+      name: posts
+      url: /posts/
       weight: 20
     - identifier: example
       name: example.org
