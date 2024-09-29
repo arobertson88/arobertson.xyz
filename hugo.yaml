@@ -58,7 +58,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
@@ -115,9 +115,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: categories
+      name: categories
+      url: /categories/
       weight: 10
     - identifier: tags
       name: tags
